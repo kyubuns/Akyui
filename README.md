@@ -7,6 +7,6 @@ There is nothing there yet.
 
 under development
 
-## Relations
+## Projects
 
 - [AkyuiUnity](https://github.com/kyubuns/AkyuiUnity) (Akyui to Unity)
