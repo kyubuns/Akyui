@@ -12,8 +12,8 @@
             "name": "WindowList",
             "position": [0.0, 0.0],
             "size": [800.0, 600.0],
-            "anchor_min": [0.5, 0.5],
-            "anchor_max": [0.5, 0.5],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "components": [],
             "children": [6, 7, 8]
         },
@@ -69,8 +69,8 @@
             "name": "ImageList",
             "position": [0.0, 200.0],
             "size": [400.0, 0.0],
-            "anchor_min": [0.5, 0.5],
-            "anchor_max": [0.5, 0.5],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "components": [
                 {
                     "cid": 1,
@@ -86,8 +86,8 @@
             "name": "Dummy",
             "position": [0.0, 0.0],
             "size": [100.0, 100.0],
-            "anchor_min": [0.5, 0.5],
-            "anchor_max": [0.5, 0.5],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "components": [
                 {
                     "cid": 1,
