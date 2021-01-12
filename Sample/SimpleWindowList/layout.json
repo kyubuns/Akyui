@@ -74,8 +74,7 @@
             "components": [
                 {
                     "cid": 1,
-                    "type": "layout",
-                    "direction": "left_to_right"
+                    "type": "horizontal_layout"
                 }
             ],
             "children": [9]
