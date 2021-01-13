@@ -1,10 +1,11 @@
 {
+    "name": "SimpleWindowList",
+    "timestamp": 1610182611,
     "meta": {
         "app": "hand written",
         "akyui_version": "0.1.0",
         "app_version": "1.0.0"
     },
-    "timestamp": 1610182611,
     "root": 1,
     "elements": [
         {
