@@ -66,13 +66,13 @@
             "eid": 4,
             "type": "prefab",
             "reference": "SimpleButton",
+            "position": [-100.0, -100.0],
+            "size": [200.0, 100.0],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "hash": 1610182610,
             "overrides":
             [
-                {
-                    "eid": [2],
-                    "position": [-100, -100]
-                },
                 {
                     "eid": [3],
                     "components":[
@@ -89,13 +89,13 @@
             "eid": 5,
             "type": "prefab",
             "reference": "SimpleButton",
+            "position": [-100.0, -250.0],
+            "size": [200.0, 100.0],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "hash": 1610182610,
             "overrides":
             [
-                {
-                    "eid": [2],
-                    "position": [-100, -250]
-                },
                 {
                     "eid": [3],
                     "components":[
@@ -112,13 +112,13 @@
             "eid": 6,
             "type": "prefab",
             "reference": "SimpleButton",
+            "position": [-100.0, -400.0],
+            "size": [200.0, 100.0],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "hash": 1610182610,
             "overrides":
             [
-                {
-                    "eid": [2],
-                    "position": [-100, -400]
-                },
                 {
                     "eid": [3],
                     "components":[

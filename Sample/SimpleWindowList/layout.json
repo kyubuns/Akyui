@@ -23,13 +23,13 @@
             "eid": 6,
             "type": "prefab",
             "reference": "SimpleWindow",
+            "position": [-200.0, -100.0],
+            "size": [800.0, 600.0],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "hash": 1610182610,
             "overrides":
             [
-                {
-                    "eid": [1],
-                    "position": [-200.0, 0.0]
-                },
                 {
                     "eid": [4, 3],
                     "components":[
@@ -46,13 +46,13 @@
             "eid": 7,
             "type": "prefab",
             "reference": "SimpleWindow",
+            "position": [200.0, 0.0],
+            "size": [800.0, 600.0],
+            "anchor_x": "center",
+            "anchor_y": "middle",
             "hash": 1610182610,
             "overrides":
             [
-                {
-                    "eid": [1],
-                    "position": [200.0, 0.0]
-                },
                 {
                     "eid": [4, 3],
                     "components":[
