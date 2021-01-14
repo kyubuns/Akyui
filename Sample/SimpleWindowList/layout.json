@@ -1,6 +1,6 @@
 {
     "name": "SimpleWindowList",
-    "timestamp": 1610182611,
+    "hash": 1610182611,
     "meta": {
         "app": "hand written",
         "akyui_version": "0.1.0",
@@ -23,7 +23,7 @@
             "eid": 6,
             "type": "prefab",
             "reference": "SimpleWindow",
-            "timestamp": 1610182610,
+            "hash": 1610182610,
             "overrides":
             [
                 {
@@ -46,7 +46,7 @@
             "eid": 7,
             "type": "prefab",
             "reference": "SimpleWindow",
-            "timestamp": 1610182610,
+            "hash": 1610182610,
             "overrides":
             [
                 {
